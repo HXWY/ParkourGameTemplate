@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Parkour Game Template Files/Scenes/StartUp.unity
+    path: Assets/ParkourGameTemplateFiles/Scenes/StartUp.unity
     guid: c2f225ce7f2d4d44a933b22487cf960f
   - enabled: 1
-    path: Assets/Parkour Game Template Files/Scenes/Main Menu/Main Menu.unity
+    path: Assets/ParkourGameTemplateFiles/Scenes/Main Menu/Main Menu.unity
     guid: 30ce0856bb6a39a4dab05868debf4ae0
   - enabled: 1
-    path: Assets/Parkour Game Template Files/Scenes/DevScene/DevScene.unity
+    path: Assets/ParkourGameTemplateFiles/Scenes/DevScene/DevScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
