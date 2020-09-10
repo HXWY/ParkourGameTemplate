@@ -60,7 +60,7 @@ crashlytics-build.properties
 
 Logs
 Build
-obj/Debug
+ParkourGame/obj/Debug
 Assembly-CSharp.csproj
 PersonalProject2020.sln
 ParkourGame/Library
