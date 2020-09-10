@@ -39,4 +39,4 @@ MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/L
 ### Report any Bugs/Issues found!
 Report any issues encountered with Cloning or setting up. Please report any bugs found during your development! Report bugs here: https://discord.gg/7VUvVsp
 
-
+###### Thanks to Colanderp!
