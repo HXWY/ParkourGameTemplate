@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Logs
+Build
+obj
+Debug
+obj/Debug
+Assembly-CSharp.csproj
+PersonalProject2020.sln
+Scenes/DevScene
