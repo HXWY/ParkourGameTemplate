@@ -9,9 +9,8 @@ A template for a game that is focused on movement and parkour using Unity with s
 This Template has been designed and developed by LCordial that is available for the public.
 
 ### This Template Version Includes
-   - Main Menu with basic background animation with editable text UI, canvas and background
-        - Animation to be removed
-   - Advanced player controller including: Wall Running, Sliding, Crouching, Sprinting, Ledge grabbing and Vaulting.
+   - Main Menu with basic background animation with editable text UI, canvas and background.
+   - Advanced player controller including: Wall Running, Sliding, Crouching, Sprinting, Ledge grabbing, Vaulting and Slow Motion.
    - URP Post Processing
    
 # 🖥️ Requirements
@@ -20,7 +19,7 @@ This Template has been designed and developed by LCordial that is available for 
 - Unity URP (CAN BE CHANGED) [Version Requirement coming Soon!]
 
 # 🛠️ Getting Started
-Install all Requirements needed detailed in **Requirements**
+Install all Requirements needed that are detailed in **Requirements**
 
 ##### **Cloning the Repository onto Local**
 Using Git or Github Desktop (Doesn't Matter)
@@ -40,4 +39,4 @@ MIT License [here](https://github.com/LCordial/ParkourGameTemplate/blob/master/L
 ### Report any Bugs/Issues found!
 Report any issues encountered with Cloning or setting up. Please report any bugs found during your development! Report bugs here: https://discord.gg/7VUvVsp
 
-
+###### Thanks to Colanderp!
